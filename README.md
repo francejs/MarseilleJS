@@ -1,6 +1,6 @@
 MarseilleJS
 ===========
 
-This is the repository for MarseilleJS.
+Dépôt du groupe MarseilleJS.
 
-The website is on the `gh-pages` branch.
+Le site est sur la branche `gh-pages`.
