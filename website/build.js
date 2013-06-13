@@ -21,6 +21,7 @@ function parseDir(dirName) {
         if (stat.isDirectory()) {
           var distDir = fileName.replace(/^src/, 'dist')
           console.log(' DIR ' + distDir);
+          mkdirp.sync(distDir);
           parseDir(fileName);
         } else if (fileName.match(/\.md$/)) {
           parseFile(fileName);
