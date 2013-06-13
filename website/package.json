@@ -1,0 +1,12 @@
+{
+  "author": "François Vaux",
+  "repository": "https:///github.com/francejs/MarseilleJS.git",
+  "version": "0.1.0",
+  "main": "./build.js",
+  "homepage": "http://francejs.org/MarseilleJS",
+  "dependencies": {
+    "marked": "*",
+    "handlebars": "*",
+    "mkdirp": "*"
+  }
+}
