@@ -11,8 +11,8 @@ son écosystème et de se connecter avec les autres groupes locaux.
 
 ## Actualités
 
-* [Lundi 27 mai 2013](actus/2013-05-27.md) : annonce du second meetup
-* [Vendredi 26 avril 2013](actus/2013-04-26.md) : compte rendu du premier meetup
-* [Jeudi 18 avril 2013](actus/2013-04-18.md) : annonce du premier meetup
-* [Lundi 25 mars 2013](actus/2013-03-25.md) : inscriptions pour le premier meetup
-* [Jeudi 21 mars 2013](actus/2013-03-21.md) : c'est parti !
+* [Lundi 27 mai 2013](actus/2013-05-27.html) : annonce du second meetup
+* [Vendredi 26 avril 2013](actus/2013-04-26.html) : compte rendu du premier meetup
+* [Jeudi 18 avril 2013](actus/2013-04-18.html) : annonce du premier meetup
+* [Lundi 25 mars 2013](actus/2013-03-25.html) : inscriptions pour le premier meetup
+* [Jeudi 21 mars 2013](actus/2013-03-21.html) : c'est parti !
