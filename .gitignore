@@ -1,2 +1,2 @@
 node_modules/
-website/dist/*.html
+website/dist/**/*.html
